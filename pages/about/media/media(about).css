@@ -1,0 +1,53 @@
+@media only screen and (max-width : 1130px) {
+	
+	.container {
+    	width: 100%;
+   		margin: 0 auto;
+	}
+	.navigation_boxs {
+	    width: 100%;
+	    padding-right: 131px;
+	}
+	.about__me {    
+	    padding-right: 40px;
+	}
+	.about__phone img {
+	    padding-left: 56px;	
+	}
+
+	.contacts__new {
+	    padding: 60px 53px 0px 0px;
+	}
+
+	.contacts__connect {
+	    padding:60px 177px 0px 216px;
+	}
+	
+	.contacts__piroll {
+		padding-left: 20px;
+	}
+
+}
+
+@media only screen and (max-width : 1002px) {
+	
+	.reviews__wrapper {
+	    display: flex;
+	    margin: 0 auto;
+	    width: 62%;
+	}
+
+	.reviews__compl-fix {
+	     margin-left: 0px; 
+	}
+
+	.reviews__compl {
+   		margin: 60px 83px 60px 78px;
+	}	
+
+	.img__ph {
+    	padding-left: 48px;
+	}
+
+
+}

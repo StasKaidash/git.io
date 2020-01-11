@@ -1,0 +1,136 @@
+@media only screen and (max-width : 1824px) {
+	
+	.img__ph {
+    	padding-left: 96px;
+	}
+	
+
+		.reviews__wrapper {
+		    display: flex;
+		    margin: 0 auto;
+		    width: 62%;
+		}
+
+		.reviews__compl-fix {
+		     margin-left: 0px; 
+		}
+
+		.reviews__compl {
+	   		margin: 60px 83px 60px 78px;
+		}	
+	.registr__title {
+	    margin-left: 240px;
+
+	}
+	.registr__input {
+	    padding: 0px 30px 30px 239px;
+	}
+	.registr__comment {
+	    display: block;
+	    width: 672px;
+	    height: 171px;
+	    margin-left: 240px;
+
+	}
+
+}	
+@media screen and (max-width : 1228px) {
+	
+	.container {
+    	width: 100%;
+   		margin: 0 auto;
+	}
+
+	.input {
+	    margin-right: 6px;
+	    padding-left: 20px;
+	    display: block;
+	    width: 333px;
+	    height: 50px;
+	}
+
+	.img__ph {
+    	padding-left: 96px;
+	}
+
+	.reviews__compl {
+	    margin: 60px 107px 60px 25px;
+	}
+	
+	.registr__input {
+	    display: flex;
+	    justify-content: center;
+	    padding: 0px 1px 30px 5px;
+	}
+	.registr__title {
+	    display: block;
+	    width: 673px;
+	    height: 50px;
+	    margin-left: 0px;
+	    padding-left: 20px;
+	    margin: 0 auto;
+	}
+
+	.registr__comment {
+	    margin-left: 0px; 
+	    margin: 0 auto;
+	    margin-top: 20px;
+	}
+	
+	.contacts__connect {
+	    padding: 60px 150px 0px 134px;
+	}
+
+	.gadgets__info {
+	    padding-right: 50px;
+	    width: 25%;
+	}
+
+	.gadgets__icon {
+	   padding: 44px 116px 17px 84px;
+	}
+
+	.gadgets__magic {
+	    padding: 39px 96px 17px 91px;
+	}
+
+	.gadgets__future {
+	    padding-right: 23px;
+	    width: 25%;
+	}
+
+	.gadgets__future-fix {
+	    padding-left: 7px;
+	}
+	
+	.gadgets__advanteges:nth-child(2) {
+	    padding-left: 18px;
+	}
+
+}
+
+@media only screen and (max-width : 1065px) {
+	
+
+	.container {
+    	width: 100%;
+   		margin: 0 auto;
+	}
+
+	.reviews__compl {
+	    margin: 60px 83px 60px 37px;
+	}
+
+	.reviews__icon {
+		padding-top: 10px;
+	}
+
+	.contacts__new {
+	    padding: 60px 53px 0px 0px;
+	}
+	
+	.img__ph {
+    	padding-left: 48px;
+	}
+
+}

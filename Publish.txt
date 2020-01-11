@@ -1,0 +1,1 @@
+$ gem push --key github --host https://rubygems.pkg.github.com/StasKaidash me-1.0.0.gem

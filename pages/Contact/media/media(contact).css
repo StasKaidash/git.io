@@ -1,0 +1,46 @@
+@media only screen and (max-width : 1130px) {
+	
+	.container {
+    	width: 100%;
+   		margin: 0 auto;
+	}
+	.navigation_boxs {
+	    width: 100%;
+	    padding-right: 10px;
+	}	
+
+	.navigation_boxs {
+	    width: 100%;
+	    padding-right: 131px;
+	}	
+
+	.contacts__new {
+	    padding: 60px 53px 0px 0px;
+	}
+
+	.contacts__connect {
+	    padding:60px 177px 0px 216px;
+	}
+	
+	.contacts__piroll {
+		padding-left: 20px;
+	}
+
+	.input {
+    	margin-right: 7px;
+	    width: 211px;
+	}
+
+	.registr__title {
+    	width: 454px;
+	}
+
+	.registr__comment {
+    	display: block;
+    	width: 440px;
+	}
+
+	.info__me {
+		padding-left: 40px;
+	}
+}
